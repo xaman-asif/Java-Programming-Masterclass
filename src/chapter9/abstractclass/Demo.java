@@ -12,3 +12,4 @@ public class Demo {
         bird.fly();
     }
 }
+
