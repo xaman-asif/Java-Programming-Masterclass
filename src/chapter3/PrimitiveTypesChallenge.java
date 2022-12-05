@@ -10,3 +10,4 @@ public class PrimitiveTypesChallenge {
         System.out.println(longVar);
     }
 }
+

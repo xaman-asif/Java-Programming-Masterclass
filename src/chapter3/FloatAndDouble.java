@@ -22,3 +22,4 @@ public class FloatAndDouble {
         System.out.println(myDoubleValue);
     }
 }
+
