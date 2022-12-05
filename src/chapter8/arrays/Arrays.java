@@ -30,3 +30,4 @@ public class Arrays {
         return (double) sum / (double) array.length;
     }
 }
+
